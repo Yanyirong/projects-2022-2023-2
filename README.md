@@ -1,12 +1,46 @@
 # projects-2022-2023-2
-本项目下包含作者在大三学期下所修的几门课程的相关项目的code，供感兴趣的同学参考
-## data mining
-数据挖掘课程包含五个小作业，请见相应文件夹
+This project includes some of the homeworks or projects I have done at 
+the second semester of my junior year in SJTU.
 
-题主hw4得分为80，code有一定的问题
+Mainly includes four courses:
+
++ data mining
++ IntelliSense Practice
++ Reinforcement Learning
++ Virtual Reality
+
+If you are a student major in AI in SJTU, you can refer to these projects, which can help you save some time.
+
+But ATTENTION, please do not copy my code directly.You can get some idea from my code, but you should write your own code and finish your own homework.
+## data mining
+Data mining has five homeworks,you can find them in the folder named data_mining_x.
+
+About HW4,I got 80 scores,which means the codes still have some questions.If you find some bugs,try to fix them by yourself.
 ## IntelliSense Practice
-智能感知实践有六个小项目，题主选做了其中的四个
-+ 语言模型，见languagemodel文件夹。本任务主要是跑模型做对比试验即可，因此一个sh文件就可以完成了。
-+ 图像生成，见vae文件夹。复现了vae，进行了改进。
-+ 声音事件检测，见sound_event_detection文件夹。实现思路和细节见文件夹内报告。
-+ 音视频场景识别，见audio_visual_scene文件夹。主要实现了前期融合和后期融合。
+IntelliSense Practice has six small projects, and I have done four of them.
++ Language Model, see languagemodel folder. This task is mainly to run the model to do comparative experiments, so a sh file can be completed.
++ Image Generation, see vae folder. Reproduced vae and made improvements.
++ Sound Event Detection, see sound_event_detection folder. The implementation ideas and details are described in the report in the folder.
++ Audio-Visual Scene Recognition, see audio_visual_scene folder. Mainly implemented early fusion and late fusion.
+
+## Reinforcement Learning
+We have three projects in this course, and only need to choose one of them to do.
+
+Our group chose the Multi-Agent Reinforcement Learning project.
+
+This project is about the 3v3 greedy snake game.And this projects has a lot of open sources.
+
+See another project named (xxx) for more details.
+## Virtual Reality
+This course is mainly about the Unity engine, and the final project is to make a game.
+
+I have learned and developed some projects before and the teammate Xu is a fantastic programmer too.
+
+For this project, you can search tutorial videos on Bilibili, and you can also refer to the projects on Github or other websites.
+
+## About this semester
+This semester only have few courses, and mainly focus on group projects.
+
+Thanks to all the classmate who have helped me: Rao, Xing, Zheng, Kun, Han, Zhi, Xu, etc.
+
+Best wishes to all of you.
