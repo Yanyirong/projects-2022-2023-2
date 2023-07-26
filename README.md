@@ -37,7 +37,13 @@ This course is mainly about the Unity engine, and the final project is to make a
 I have learned and developed some projects before and the teammate Xu is a fantastic programmer too.
 
 For this project, you can search tutorial videos on Bilibili, and you can also refer to the projects on Github or other websites.
+## Some tips
+Here is some tips when you are entering the four courses mentioned above:
 
++ Data Mining:Class is acceptable,but the hw is awful.
++ Reinforcement Learning:Class is awful,learn by yourself.But hw is acceptable.
++ IntelliSense Practice:Dr Wu's classes are wonderful.Other classes are useless.
++ Virtual Reality:Classes are very good and load is small.I think this course is the best of four.
 ## About this semester
 This semester only have few courses, and mainly focus on group projects.
 
